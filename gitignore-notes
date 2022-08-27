@@ -1,3 +1,7 @@
+# Generated docs
+*.pdf
+*.html
+
 # Python
 *.pyo
 *.pyc
